@@ -1,8 +1,3 @@
-<!-- ============================================================
-     OCEAN — id 06
-     Placeholder emilio18275 gets substituted at deploy time.
-     ============================================================ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0e7490,100:22d3ee&height=270&section=header&text=emilio18275&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Deep+waters+run+smoothest&descSize=18&descColor=ffffff99&descAlignY=52"/>
